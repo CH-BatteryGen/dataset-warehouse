@@ -33,6 +33,7 @@ This dataset is generated via AI techniques based on real-world new energy vehic
 
 
 If this dataset is helpful for your research, please cite it in your publication. 
+[1] China Automotive Engineering Research Institute, Huawei. (2025). *CAERI-Huawei AI-generated power battery dataset for new energy vehicles (CH-BatteryGen)* (Version 1.0) [Data set]. https://github.com/CH-BatteryGen/dataset-warehouse
 
 ## Update
 
