@@ -4,10 +4,15 @@
 
 This dataset is generated via AI techniques based on real-world new energy vehicle (NEV) data. The dataset currently released is version 1.0, which comprises charging/discharging data from various power battery systems, aiming to provide essential data support for battery performance evaluation, fault diagnosis, and lifespan analysis. This dataset is intended for academic research purposes only.
 
--   ** Dataset Name:** CH-BatteryGen 
--   ** Battery Types:**  Ternary Li-ion batteries and Lithium Iron Phosphate Li-ion batteries
--   ** Data Source:** Generated from real-world NEV operation data, comprising a total of 1,000 vehicles
--   **Included Fault Types:** normal、high_resistance、low_capacit、self_discharge/ Normal, High Resistance, Low Capacity, Self-Discharge
+-   Dataset Name: CAERI-Huawei AI-Generated Power Battery Dataset for New Energy Vehicles  (CH-BatteryGen) 
+-   Battery chemistries:  Ternary Li-ion batteries (NCM) and Lithium Iron Phosphate Li-ion batteries (LFP)
+-   Battery type:  Prismatic cell
+-   Data Source: Generated from real-world NEV operation data, comprising a total of 1,000 vehicles
+-   Included Fault Types: normal、high_resistance、low_capacit、self_discharge/ Normal, High Resistance, Low Capacity, Self-Discharge
+-   More details:
+-   The capacity of LFP batteries： 150 Ah for packs containing 28 cells; 200Ah for packs containing 124 cells
+-   The capacity of NCM batteries with low capacity fault: 180Ah
+-   The file *faults details - LFP batteries.xlsx* contains detailed parameters of faulty LFP batteries, including severity, fault cell id, fault value, and is released to support research tasks such as fault analysis and fault severity/level prediction.
 
 ## Dataset Field Information
 
@@ -35,7 +40,14 @@ We will publish more data to CH-BatteryGen. By subscribing to the CH-BatteryGen 
 
 ## Contact
 
-(This release of the dataset has been anonymized for the double-blind peer-review process of an associated manuscript. Full author details will be restored upon publication.)
+CAERI ：
+linyanke@caeri.com.cn 林彦可 LIN Yanke
+zhangyuhao01@caeri.com.cn 张宇豪 ZHANG Yuhao
+
+Huawei：
+liulishuo@huawei.com 刘力硕 LIU Lishuo
+jinxin107@huawei.com 金鑫 JIN Xin
+
 
 
 ## Terms of Use
