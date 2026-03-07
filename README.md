@@ -4,6 +4,8 @@
 
 This dataset is generated via AI techniques based on real-world new energy vehicle (NEV) data. The dataset currently released is version 1.0, which comprises charging/discharging data from various power battery systems, aiming to provide essential data support for battery performance evaluation, fault diagnosis, and lifespan analysis. This dataset is intended for academic research purposes only.
 
+Please download at Releases part: https://github.com/CH-BatteryGen/dataset-warehouse/releases
+
 -   Dataset Name: CAERI-Huawei AI-Generated Power Battery Dataset for New Energy Vehicles  (CH-BatteryGen) 
 -   Battery chemistries:  Ternary Li-ion batteries (NCM) and Lithium Iron Phosphate Li-ion batteries (LFP)
 -   Battery type:  Prismatic cell
